@@ -6,6 +6,9 @@ namespace MathLibraryTests
     [TestClass]
     public class MathTestsClass
     {
+        /// <summary>
+        /// Нахождение суммы
+        /// </summary>
         [TestMethod]
         public void Sum_1And1_ReturnSum()
         {
