@@ -10,7 +10,8 @@ namespace MathLibraryP
     {
         public static int Sum(int x,int y)
         {
-            return x + y;
+            int s = x + y;
+            return s;
         }
     }
 }
